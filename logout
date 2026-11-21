@@ -1,0 +1,2 @@
+a = imput("what number do you like?")
+print(a)
